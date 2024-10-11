@@ -1,8 +1,20 @@
-# React + Vite
+# GlobalSwap 💱🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+GlobalSwap is a user-friendly currency converter that enables quick and easy currency exchanges worldwide.
 
-Currently, two official plugins are available:
+## Functionalities
+- 🌍 Currency conversion between multiple currencies
+- ✨ Interactive and responsive design with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tools Used
+- ReactJS
+- Tailwind CSS
+- Frankfurter API
+- Vite
+
+## Demo
+Feel free to check out the live demo: A screenshot of the project is present inside.
+
+## Installation
+Clone the repository.
